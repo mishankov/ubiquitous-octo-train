@@ -1,2 +1,2 @@
 # ubiquitous-octo-train
-Personal Three.js wrappers with random name
+Personal Three.js wrappers package with random name
