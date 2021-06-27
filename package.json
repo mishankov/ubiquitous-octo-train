@@ -1,11 +1,13 @@
 {
   "name": "@mishankov/ubiquitous-octo-train",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Personal Three.js wrappers package with random name",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
+    "pub": "npm publish --access public",
     "prepublish": "npm run build"
   },
   "repository": {
