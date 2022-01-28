@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/mishankov/ubiquitous-octo-train#readme",
   "dependencies": {
-    "three": "^0.129.0"
+    "three": "^0.137.0"
   },
   "devDependencies": {
     "@types/three": "^0.129.1",
